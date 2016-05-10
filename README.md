@@ -1,1 +1,4 @@
-# HackerNews-React-FluxUtils-Jest-Webpack-Babel-ESLint
+# HackerNews-React-Flux-Utils-Immutable
+
+A HackerNews client by React, Flux and Immubble.js.
+
